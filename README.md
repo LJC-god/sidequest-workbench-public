@@ -6,6 +6,33 @@
 
 使用 React、TypeScript 与 Vite 构建。无需后端、登录或 API 密钥，首次打开即可体验演示数据。
 
+## 界面预览
+
+以下截图来自实际运行的应用，使用内置演示数据，拍摄于 2026-09-22。桌面视口为 1440 × 1000，手机视口为 390 × 844；截图保留完整页面，点击可查看原图。
+
+### 今日工作台
+
+![今日工作台：创作时间线、今日任务与账号进度](output/playwright/01-today.png)
+
+| 任务管理 | 内容主题 |
+| --- | --- |
+| ![按状态分组的任务管理页面](output/playwright/02-tasks.png) | ![选题分类与关联任务](output/playwright/03-topics.png) |
+
+| 创作实验 | 完成历史 |
+| --- | --- |
+| ![实验假设、观察指标与进度](output/playwright/04-experiments.png) | ![按日期、账号与结果筛选历史记录](output/playwright/05-history.png) |
+
+### 设置与数据管理
+
+![个人偏好、账号管理与 JSON 数据备份](output/playwright/06-settings.png)
+
+<details>
+<summary>查看手机宽度预览</summary>
+
+<img src="output/playwright/07-mobile-today.png" alt="390 像素宽度下的今日工作台完整页面" width="390" />
+
+</details>
+
 ## 能做什么
 
 | 工作区 | 功能 |
